@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CalculatorBMI</string>
+    <string name="calculator_bmi">Calculator BMI</string>
+    <string name="age">Tuổi</string>
+    <string name="enterAge">Nhập tuổi</string>
+    <string name="enterHeight">Nhập chiều cao</string>
+    <string name="cm">cm</string>
+    <string name="weight">Cân Nặng</string>
+    <string name="enterWeight">Nhập cân nặng</string>
+    <string name="kg">kg</string>
+    <string name="calculator">Tính Toán</string>
+    <string name="delete">Xóa</string>
+    <string name="stt1">Thiếu cân</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result">Result</string>
+    <string name="bmi">BMI = </string>
+    <string name="l">(</string>
+    <string name="r">)</string>
+    <string name="scopebmi">-Phạm vi BMI khỏe mạnh: 18.5 - 22.9(kg/m\u00B2)</string>
+    <string name="stt">-Cân nặng khỏe mạnh theo chiều cao: 56 kg - 75,7 kg</string>
+    <string name="kg_m_2">kg/m\u00B2</string>
+    <string name="bmiBasic">-BMI cơ bản:</string>
+    <string name="poderal">-Chỉ số Poderal(kg/m\u00B3):</string>
+    <string name="standard">-Cân nặng khỏe mạnh theo chiều cao từ:</string>
+    <string name="kgg">kg</string>
+    <string name="kg_m_3">kg/m\u00B3</string>
+    <string name="todo">TODO</string>
+    <string name="underWeight">Thiếu cân</string>
+    <string name="normal">Bình thường</string>
+    <string name="overWeight">Thừa cân</string>
+    <string name="preObese">Tiền béo phì</string>
+    <string name="obese1">Béo phì loại I</string>
+    <string name="obese2">Béo phì loại II</string>
+    <string name="obese3">Béo phì loại III</string>
+    <string name="bmi_image_description">Hình ảnh liên quan đến BMI</string>
+    <string name="back_button_description">Back</string>
+
+</resources>
